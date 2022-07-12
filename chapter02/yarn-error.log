@@ -1,0 +1,27 @@
+Arguments: 
+  /home/davisilva/.nvm/versions/node/v16.13.2/bin/node /usr/share/yarn/bin/yarn.js add typescript
+
+PATH: 
+  /home/davisilva/.nvm/versions/node/v16.13.2/bin:/home/davisilva/.nvm/versions/node/v16.13.2/bin:/home/davisilva/.nvm/versions/node/v16.13.2/bin:/home/davisilva/.cargo/bin:/home/davisilva/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/go/bin:/home/davisilva/.fzf/bin:/home/davisilva/.nvm/versions/node/v16.13.2/bin:/bin:/home/davisilva/go/bin:/home/davisilva/.nvm/versions/node/v16.13.2/bin:/bin:/home/davisilva/go/bin:/home/davisilva/.nvm/versions/node/v16.13.2/bin:/bin:/home/davisilva/go/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.13.2
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
